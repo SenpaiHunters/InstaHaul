@@ -1,10 +1,18 @@
+# What will happen now:
+As of now, I am planning on either adding more to the progress bar, and removing the dark-mode toggle as Instagram website now supports dark mode, making this redundant, I might add more currently I've been working on SpotOn A LOT, so, this will either move to a Chromme extension method, be archived or I'll add more features. Currently, I am focusing on SpotOn, as that is my main source of enjoyment per se. 
+
+Remember any issues feel free to talk about it, or make an issue form. 
+
+- Kami
+
+
 # What does Instahaul do?
 
 
 ### From the creator of [SpotOn](https://github.com/SenpaiHunters/SpotOn), a Spotify Overhaul comes, [InstaHaul](https://greasyfork.org/en/scripts/454689-instahaul).
 
 
-![SCR-20221112-t3p 9 53 09 pm](https://user-images.githubusercontent.com/103985728/201470896-edd61583-4f56-490b-9157-e8c0df737ab9.png)
+![Image](https://user-images.githubusercontent.com/103985728/201470896-edd61583-4f56-490b-9157-e8c0df737ab9.png)
 ##### Names blured out for privacy reasons.
 
 
